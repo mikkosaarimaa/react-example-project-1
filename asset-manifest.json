@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-example-project-1/static/css/main.937c17ac.css",
-    "main.js": "/react-example-project-1/static/js/main.e6a25d24.js",
+    "main.css": "/react-example-project-1/static/css/main.b59e657f.css",
+    "main.js": "/react-example-project-1/static/js/main.93502260.js",
     "static/media/background1-dark.png": "/react-example-project-1/static/media/background1-dark.cc4b2f919eede5bde174.png",
     "static/media/background1.jpg": "/react-example-project-1/static/media/background1.74784945e530035df0ce.jpg",
     "index.html": "/react-example-project-1/index.html",
-    "main.937c17ac.css.map": "/react-example-project-1/static/css/main.937c17ac.css.map",
-    "main.e6a25d24.js.map": "/react-example-project-1/static/js/main.e6a25d24.js.map"
+    "static/media/wrench.svg": "/react-example-project-1/static/media/wrench.18405ff831f052ef50a1686c3bdf2c7d.svg",
+    "main.b59e657f.css.map": "/react-example-project-1/static/css/main.b59e657f.css.map",
+    "main.93502260.js.map": "/react-example-project-1/static/js/main.93502260.js.map"
   },
   "entrypoints": [
-    "static/css/main.937c17ac.css",
-    "static/js/main.e6a25d24.js"
+    "static/css/main.b59e657f.css",
+    "static/js/main.93502260.js"
   ]
 }
