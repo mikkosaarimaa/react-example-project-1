@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-example-project-1/static/css/main.3ea8c95c.css",
-    "main.js": "/react-example-project-1/static/js/main.98fb9446.js",
+    "main.css": "/react-example-project-1/static/css/main.817fa61c.css",
+    "main.js": "/react-example-project-1/static/js/main.c1a0c157.js",
     "static/media/background1-dark.png": "/react-example-project-1/static/media/background1-dark.cc4b2f919eede5bde174.png",
     "static/media/background1.jpg": "/react-example-project-1/static/media/background1.74784945e530035df0ce.jpg",
     "index.html": "/react-example-project-1/index.html",
-    "main.3ea8c95c.css.map": "/react-example-project-1/static/css/main.3ea8c95c.css.map",
-    "main.98fb9446.js.map": "/react-example-project-1/static/js/main.98fb9446.js.map"
+    "main.817fa61c.css.map": "/react-example-project-1/static/css/main.817fa61c.css.map",
+    "main.c1a0c157.js.map": "/react-example-project-1/static/js/main.c1a0c157.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ea8c95c.css",
-    "static/js/main.98fb9446.js"
+    "static/css/main.817fa61c.css",
+    "static/js/main.c1a0c157.js"
   ]
 }
